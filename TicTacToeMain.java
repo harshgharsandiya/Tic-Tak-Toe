@@ -1,5 +1,5 @@
 import java.util.*;
-public class tictaktoe{
+public class TicTacToeMain{
 
     public static void print(char mat[][]){
         for(int i=0; i<3; i++){
